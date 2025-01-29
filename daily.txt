@@ -1,0 +1,68 @@
+```html
+<h1>Schedule: January 28th 2025, Tuesday</h1>
+
+<h2>Reminders</h2>
+<ul>
+    <li><strong>IDETC Paper Deadline:</strong> March 17.</li>
+</ul>
+
+<h2>Time Slots and Activities</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Time Slot</th>
+            <th>Activity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>9:00 AM - 10:30 AM</td>
+            <td>Morning routine: Wake up and get ready</td>
+        </tr>
+        <tr>
+            <td>10:30 AM - 11:00 AM</td>
+            <td>Commute to the lab</td>
+        </tr>
+        <tr>
+            <td>11:30 AM - 12:00 PM</td>
+            <td>Meditation</td>
+        </tr>
+        <tr>
+            <td>12:00 PM - 12:30 PM</td>
+            <td>Lunch break</td>
+        </tr>
+        <tr>
+            <td>12:30 PM - 3:00 PM</td>
+            <td>Contribute to Algorithmic Report: Review and finalize your contributions</td>
+        </tr>
+        <tr>
+            <td>3:00 PM - 3:30 PM</td>
+            <td>Break</td>
+        </tr>
+        <tr>
+            <td>3:30 PM - 5:00 PM</td>
+            <td>Follow up on rent payment: Contact Minod</td>
+        </tr>
+        <tr>
+            <td>5:00 PM - 6:30 PM</td>
+            <td>Gym: Running and strength training</td>
+        </tr>
+        <tr>
+            <td>6:30 PM - 7:30 PM</td>
+            <td>Dinner and grocery shopping</td>
+        </tr>
+        <tr>
+            <td>7:30 PM - 9:00 PM</td>
+            <td>Review and relax: Watch videos or engage in leisure activities</td>
+        </tr>
+        <tr>
+            <td>9:00 PM - 11:00 PM</td>
+            <td>Social time: Connect with friends or family</td>
+        </tr>
+        <tr>
+            <td>11:00 PM</td>
+            <td>Bedtime routine and sleep</td>
+        </tr>
+    </tbody>
+</table>
+```

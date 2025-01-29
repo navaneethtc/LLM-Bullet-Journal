@@ -1,0 +1,128 @@
+File:
+    <h1>Daily Schedule Constraints and Observations</h1>
+
+    <div class="section">
+        <h2>Morning Routine</h2>
+        <ul>
+            <li><span class="goal">Wake-up Time:</span>
+                <ul>
+                    <li>Current: 9:00 AM to 9:30 AM.</li>
+                    <li>Goal: Wake up earlier to start the day more effectively.</li>
+                    <li>Constraint: Late bedtime due to long days.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Getting Ready:</span>
+                <ul>
+                    <li>Takes approximately 1.5 hours, including morning activities.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Commute to Lab</h2>
+        <ul>
+            <li><span class="goal">Travel Time:</span>
+                <ul>
+                    <li>30 minutes to reach the lab.</li>
+                    <li>Additional 30 minutes to settle and begin work.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Work Hours</h2>
+        <ul>
+            <li><span class="goal">Working Periods:</span>
+                <ul>
+                    <li>Work from ~10:30 AM to ~2:30 or 3:00 PM.</li>
+                    <li>Lunch break for 30 minutes.</li>
+                    <li>Resume work from ~3:00 PM to ~6:30 PM.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Distractions:</span>
+                <ul>
+                    <li>Frequent use of Reddit and occasional YouTube videos during work hours.</li>
+                    <li>Goal: Minimize or eliminate these distractions to increase productivity.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Evening Routine</h2>
+        <ul>
+            <li><span class="goal">Gym Routine:</span>
+                <ul>
+                    <li>Frequency: Alternate days.</li>
+                    <li>Activities: Running, biking, and strength training.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Post-Gym Activities:</span>
+                <ul>
+                    <li>Return home and cook if needed.</li>
+                    <li>Try avoiding daily trips to Kroger.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Dinner:</span>
+                <ul>
+                    <li>Duration: 1 hour.</li>
+                    <li>Usually followed by watching videos.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Night Routine</h2>
+        <ul>
+            <li><span class="goal">Social Time:</span>
+                <ul>
+                    <li>Spend 1-2 hours talking to people.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Bedtime:</span>
+                <ul>
+                    <li>Often late due to prolonged evening and night activities.</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Key Observations and Goals</h2>
+        <ul>
+            <li><span class="goal">Improve Wake-up Time:</span>
+                <ul>
+                    <li>Aim to adjust bedtime to enable an earlier start to the day.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Streamline Morning Routine:</span>
+                <ul>
+                    <li>Identify ways to reduce the 1.5-hour preparation time if possible.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Increase Work Productivity:</span>
+                <ul>
+                    <li>Limit distractions such as Reddit and YouTube during work hours.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Maintain Gym Routine:</span>
+                <ul>
+                    <li>Ensure consistency with alternate-day workouts.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Optimize Evening Activities:</span>
+                <ul>
+                    <li>Balance cooking, groceries, and personal time efficiently.</li>
+                    <li>Preferably avoid scheduling daily trips to Kroger.</li>
+                </ul>
+            </li>
+            <li><span class="goal">Adjust Night Routine:</span>
+                <ul>
+                    <li>Explore ways to shorten video-watching time to get to bed earlier.</li>
+                </ul>
+            </li>
+        </ul>
+	</div>

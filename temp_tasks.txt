@@ -1,0 +1,16 @@
+    <h1>Tasks to Complete in the Near Future</h1>
+
+    <div class="task-section">
+        <p class="task-header">Contribute to Algorithmic Report:</p>
+        <ul>
+            <li>Add your contributions to the report for Eaton by January 28th.</li>
+            <li>Allocate sufficient time to review your work before submission.</li>
+        </ul>
+    </div>
+
+    <div class="task-section">
+        <p class="task-header">Follow Up on Rent Payment:</p>
+        <ul>
+            <li>Ask your roommate Minod to send you the rent money.</li>
+        </ul>
+    </div>

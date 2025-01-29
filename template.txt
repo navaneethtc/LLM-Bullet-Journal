@@ -1,0 +1,34 @@
+<h1>Schedule: February 17th 2025, Monday</h1>
+
+    <h2>Reminders</h2>
+    <ul>
+        <li><strong>IDETC Paper Deadline in a month: March 17.</li>
+    </ul>
+
+    <h2>Time Slots and Activities</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Time Slot</th>
+                <th>Activity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>12:00 PM - 12:30 PM</td>
+                <td>Lunch break</td>
+            </tr>
+            <tr>
+                <td>12:30 PM - 2:30 PM</td>
+                <td>Run simulations for <strong>Fatigue Paper</strong></td>
+            <tr>
+                <td>5:00 PM - 6:30 PM</td>
+                <td>Gym: Running and strength training</td>
+            </tr>
+            <tr>
+                <td>6:30 PM - 7:30 PM</td>
+                <td>Dinner and grocery shopping</td>
+            </tr>
+            </tr>
+        </tbody>
+    </table>

@@ -1,0 +1,9 @@
+    <h1>Purpose of the Mission Statement</h1>
+    <div class="section">
+        <p>A mission statement serves as a guiding principle for your actions, decisions, and priorities. It reflects your values, life goals, and aspirations, offering clarity and motivation to achieve them.</p>
+    </div>
+
+    <h2>Mission Statement</h2>
+    <div class="section">
+        <p class="mission-text">"My mission is to lead a life grounded in continuous learning, health, and integrity. My immediate goal is to complete my PhD before the end of 2025 by submitting 2-3 impactful research papers. Additionally, I aim to deepen my understanding of financial markets and economics to make informed investment decisions. In pursuit of holistic well-being, I prioritize a balanced lifestyle with a healthy diet, regular exercise, and activities like soccer, running, cycling, and strength training."</p>
+    </div>

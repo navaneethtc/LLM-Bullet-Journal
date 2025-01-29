@@ -1,0 +1,18 @@
+    <h1>Reminders</h1>
+    <div class="reminder-section">
+        <p class="reminder-header">Conference Deadlines:</p>
+        <ul>
+            <li><strong>IDETC Paper Deadline:</strong> March 17</li>
+            <ul>
+                <li>Reminders: February 17 (1 month before) and March 10 (1 week before).</li>
+            </ul>
+            <li><strong>IMECE Abstract Submission Deadline:</strong> March 27</li>
+            <ul>
+                <li>Reminders: February 27 (1 month before) and March 20 (1 week before).</li>
+            </ul>
+            <li><strong>IMECE Paper Submission Deadline:</strong> May 14</li>
+            <ul>
+                <li>Reminders: April 14 (1 month before) and May 7 (1 week before).</li>
+            </ul>
+        </ul>
+    </div>

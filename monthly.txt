@@ -1,0 +1,32 @@
+<h1>Monthly Goals</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Goal</th>
+                <th>Tasks</th>
+                <th>Comments</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Finish the rebuttal of the NAMRC paper</td>
+                <td class="tasks">1. Review reviewer feedback
+2. Draft responses to comments
+3. Revise the paper accordingly</td>
+                <td>Prioritize this task as the deadline is February 17. Allocate daily time blocks for focused work.</td>
+            </tr>
+            <tr>
+                <td>Get results for the fatigue paper</td>
+                <td class="tasks">1. Run simulations/experiments
+2. Analyze data
+3. Compile results into a draft</td>
+                <td>Break this into smaller milestones for steady progress. Collaborate with peers if needed.</td>
+            </tr>
+            <tr>
+                <td>Finish the finance courses</td>
+                <td class="tasks">1. Identify and prioritize course modules
+2. Allocate time each week to complete them</td>
+                <td>Use weekends or evenings for dedicated learning sessions.</td>
+            </tr>
+        </tbody>
+    </table>

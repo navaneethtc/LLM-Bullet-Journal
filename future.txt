@@ -1,0 +1,44 @@
+    <h1>Long Term Goals Table</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Goal</th>
+                <th>Tasks</th>
+                <th>Timeline</th>
+                <th>Comments</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Finish paper about fatigue</td>
+                <td>
+                    1. Complete abstract<br>
+                    2. Write the paper
+                </td>
+                <td>
+                    Abstract: March 3<br>
+                    Paper: May 17
+                </td>
+                <td>Break the writing into sections and set intermediate deadlines.</td>
+            </tr>
+            <tr>
+                <td>Find another idea for a paper and finish it</td>
+                <td>
+                    1. Brainstorm ideas<br>
+                    2. Conduct research<br>
+                    3. Write the paper
+                </td>
+                <td>November 15</td>
+                <td>Dedicate time for brainstorming after the first paper is done.</td>
+            </tr>
+            <tr>
+                <td>Finish courses on finance and investing</td>
+                <td>
+                    1. Identify relevant courses<br>
+                    2. Schedule and complete them
+                </td>
+                <td>Flexible, no set date</td>
+                <td>Allocate consistent weekly time slots for learning.</td>
+            </tr>
+        </tbody>
+    </table>
